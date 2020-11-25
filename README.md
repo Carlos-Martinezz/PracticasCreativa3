@@ -1,6 +1,6 @@
 # APP DESCUENTOS
 Aplicación para calcular descuentos en tienda - 
-**package com.carlos.springboot.app.tienda_descuentos**
+**(package com.carlos.springboot.app.tienda_descuentos)**
 
 ### Ejecutar aplicación
 Para inicializar la aplicación debe ejecutarse la clase princpial **TestTiendaDescuentos**
