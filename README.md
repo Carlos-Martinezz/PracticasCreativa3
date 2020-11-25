@@ -14,6 +14,6 @@ La app realizará descuentos de la siguiente manera:
 * Del 7% si la compra es mayor que $50.
 * No se aplicará ningún descuento si la compra es menor o igual a $20.
 
-# APP DESCUENTOS
+# APP CALCULADORA
 Aplicación de calculadora básica utilizando métodos estáticos - 
 **(package com.carlos.springboot.app.calculadora)**
